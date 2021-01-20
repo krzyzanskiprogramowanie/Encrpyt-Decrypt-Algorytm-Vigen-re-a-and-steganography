@@ -1,0 +1,10 @@
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\bin\Debug\BSK_Grzegorz_Krzyzanski.exe.config
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\bin\Debug\BSK_Grzegorz_Krzyzanski.exe
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\bin\Debug\BSK_Grzegorz_Krzyzanski.pdb
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.csprojAssemblyReference.cache
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.Form1.resources
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.Properties.Resources.resources
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.csproj.GenerateResource.cache
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.csproj.CoreCompileInputs.cache
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.exe
+C:\Users\gk\Desktop\BSK\BSK_Grzegorz_Krzyzanski\BSK_Grzegorz_Krzyzanski\obj\Debug\BSK_Grzegorz_Krzyzanski.pdb
